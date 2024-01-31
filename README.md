@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akinbayo Akinwande</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<h3 align="left">A passionate frontend developer from Lagos, Nigeria. An aspiring software engineer and computer science student at Kibo School. Passionate about building data tools, and eager to use my Python and data analysis skills to make an impact.
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakynbayo" alt="hakynbayo" /></a> </p>
 
